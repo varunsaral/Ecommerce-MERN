@@ -25,7 +25,7 @@ const productSchema = new mongoose.Schema({
             required:true
         }
     }],
-    catagory:{
+    category:{
         type:String,
         required:[true,"Please enter catogery"]
     },
