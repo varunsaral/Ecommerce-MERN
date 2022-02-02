@@ -104,4 +104,7 @@ dist
 .tern-port
 
 #VScode
-.backend/vs/
+backend/.vs
+
+#config
+backend/config/
